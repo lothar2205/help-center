@@ -2,6 +2,10 @@
 
 A flexible and customizable framework for creating beautiful help centers and knowledge bases, powered by Next.js.
 
+# Internal Note - Testing code rabbit config
+
+UI configuration test: reviews target ui-demo-base.
+
 ## Features
 
 - 🚀 Quick setup with CLI tool
